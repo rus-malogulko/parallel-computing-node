@@ -1,0 +1,22 @@
+{
+  "name": "node-parallel-computing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process-pool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rus-malogulko/parallel-computing-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rus-malogulko/parallel-computing-node/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/rus-malogulko/parallel-computing-node#readme"
+}
